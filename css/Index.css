@@ -1,0 +1,24 @@
+body{
+    margin:0;
+}
+
+h2{
+    color: lightblue;
+    background-color: darkblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+}
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: lightblue;
+    background-color: darkblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+a:hover{
+color:antiquewhite
+}
+
